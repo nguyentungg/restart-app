@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "M46Nq20UaF4pt3Zfpxliinmg7dNEPn02tJc8hcXF9dhFYgSwdnR99hmrvn3p9v9MthYOFuaF/EdivsgMNiYJOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nguyen Tung\\Documents\\Github\\restart-app\\restart-app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nguyen Tung\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Nguyen Tung\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Nguyen Tung\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
